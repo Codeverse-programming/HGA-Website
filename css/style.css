@@ -229,6 +229,10 @@
   background-repeat: no-repeat;
 }
 
+.carousel-item img{
+  opacity: 0;
+}
+
 .carousel-item-1 {
   position: relative;
   background-image: url(../images/flyer1.jpg);
@@ -237,6 +241,10 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.carousel-item-1 img{
+  opacity: 0;
 }
 
 .carousel-item img {
