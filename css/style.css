@@ -317,6 +317,7 @@
 }
 
 .carousel-caption .carousel-content a button.carousel-content-btn1 {
+  margin-top: -2%;
   background: var(--bs-secondary);
   color: var(--bs-dark);
   opacity: 1;
