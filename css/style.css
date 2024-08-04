@@ -351,8 +351,9 @@
 }
 
 #carouselId .carousel-indicators li {
+  margin-top: 1000%;
   width: 30px;
-  height: 10px;
+  height: 7px;
   /* background: var(--bs-primary); */
   background: #842281;
   ;
